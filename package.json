@@ -36,7 +36,7 @@
     "drizzle-kit": "^0.31.1",
     "eslint": "^9.29.0",
     "typescript": "^5.8.3",
-    "wrangler": "^4.20.3"
+    "wrangler": "^4.59.1"
   },
   "packageManager": "pnpm@10.12.1"
 }
